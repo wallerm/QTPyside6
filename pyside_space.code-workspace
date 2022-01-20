@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"qtForPython.designer.path": "c:\\Python\\Lib\\site-packages\\PySide6\\designer.exe"
+	}
+}
