@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>music_rc/00.jpg</file>
+    <file>music_rc/01.jpg</file>
+    <file>music_rc/p1.jpg</file>
+    <file>music_rc/p2.jpg</file>
+    <file>music_rc/p3.jpg</file>
+    <file>music_rc/p4.jpg</file>
+    <file>music_rc/r1.jpg</file>
+    <file>music_rc/r2.jpg</file>
+    <file>music_rc/r3.jpg</file>
+    <file>music_rc/r4.jpg</file>
+    <file>music_rc/r5.jpg</file>
+  </qresource>
+</RCC>
